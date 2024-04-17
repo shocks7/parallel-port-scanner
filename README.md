@@ -1,3 +1,7 @@
+# Parallel Port Scanner
+
+This Python script performs a parallel port scan on a specified domain name or IP address. It checks a predefined list of common ports to determine if they are open or closed. The script utilizes multithreading to improve scanning efficiency by scanning multiple ports concurrently.
+
 ## Features
 
 1. **Efficient Port Scanning:** The script efficiently scans for open ports on the target machine using a predefined list of common ports.

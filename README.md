@@ -25,7 +25,7 @@ This application performs a parallel port scan on a specified domain name or IP 
 ## Example
 
 ```bash
-$ python3 port_scanner.py
+$ python3 portscan.py
 Enter the target domain or IP address: example.com
 Scanning target: 93.184.216.34
 Port 80 OPEN
